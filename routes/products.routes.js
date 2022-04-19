@@ -37,4 +37,10 @@ router.get('/brand/:brandName', (req, res) => {
     res.send(foundProducts)
 })
 
+router.get('/selection/furniture', (req, res) => {
+    const allProducts = readJSONFile("furniture.json")
+    res.send(allProducts)
+})
+
+
 module.exports = router
