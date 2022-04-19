@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Slim cotton desk",
+        "department": "Computers",
+        "price": "368.00",
+        "stock": "67",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/1.png",
+        "discount": true,
+        "starred": false
+    },
+    {
+        "name": "Cotton shirt",
+        "department": "Tools",
+        "price": "121.00",
+        "stock": "60",
+        "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/2.png",
+        "discount": false,
+        "starred": false
+    },
+    {
+        "name": "Computer pants",
+        "department": "Movies",
+        "price": "192.00",
+        "stock": "69",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/3.png",
+        "discount": false,
+        "starred": false
+    },
+    {
+        "name": "Chair type Chaise-longue",
+        "department": "Tools",
+        "price": "149.00",
+        "stock": "49",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/4.png",
+        "discount": true,
+        "starred": false
+    },
+    {
+        "name": "Tuna with things",
+        "department": "Industrial",
+        "price": "350.00",
+        "stock": "25",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/5.png",
+        "discount": false,
+        "starred": false
+    },
+    {
+        "name": "Short chair",
+        "department": "Garden",
+        "price": "313.00",
+        "stock": "29",
+        "description": "The Football Is Good For Training And Recreational Purposes",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/6.png",
+        "discount": false,
+        "starred": true
+    },
+    {
+        "name": "Visual chips",
+        "department": "Computers",
+        "price": "242.00",
+        "stock": "68",
+        "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/7.png",
+        "discount": false,
+        "starred": false
+    },
+    {
+        "name": "Slim cotton chairs",
+        "department": "Health",
+        "price": "91.50",
+        "stock": "70",
+        "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/8.png",
+        "discount": true,
+        "starred": false
+    },
+    {
+        "name": "Cotton desk LG",
+        "department": "Music",
+        "price": "470.00",
+        "stock": "62",
+        "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/9.png",
+        "discount": false,
+        "starred": true
+    },
+    {
+        "name": "Vintage chair",
+        "department": "Clothing",
+        "price": "85.00",
+        "stock": "32",
+        "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/10.png",
+        "discount": false,
+        "starred": false
+    },
+    {
+        "name": "Robust desk",
+        "department": "Home",
+        "price": "315.00",
+        "stock": "13",
+        "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/11.png",
+        "discount": false,
+        "starred": false
+    },
+    {
+        "name": "Light lamp",
+        "department": "Computers",
+        "price": "463.00",
+        "stock": "41",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/12.png",
+        "discount": false,
+        "starred": false
+    },
+    {
+        "name": "Desk basic",
+        "department": "Clothing",
+        "price": "336.00",
+        "stock": "67",
+        "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/13.png",
+        "discount": false,
+        "starred": true
+    },
+    {
+        "name": "Cheers set light",
+        "department": "Shoes",
+        "price": "81.00",
+        "stock": "30",
+        "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+        "image": "https://res.cloudinary.com/ironhack-german/image/upload/v1650365639/furniture/14.png",
+        "discount": true,
+        "starred": false
+    }
+]
